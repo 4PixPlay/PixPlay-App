@@ -1,4 +1,10 @@
 versions:
+  - version: "0.9.6"
+    releaseDate: "2025-12-02"
+    changes:
+      - "نصب زیرنویس ها."
+      - "آپدیت زیرنویس ها."
+      - "نصب فونت ها"
   - version: "0.9.5"
     releaseDate: "2025-12-02"
     changes:
