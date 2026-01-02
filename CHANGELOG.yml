@@ -1,4 +1,8 @@
 versions:
+  - version: "0.10.5"
+    releaseDate: "2026-01-02"
+    changes:
+      - "تعویض خودکار تب به فونت ها بعد از نصب زیرنویس"
   - version: "0.10.4"
     releaseDate: "2026-01-02"
     changes:
