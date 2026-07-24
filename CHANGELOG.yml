@@ -1,4 +1,8 @@
 versions:
+  - version: "0.14.1"
+    releaseDate: "2026-07-24"
+    changes:
+      - "پشتیبانی از نصب فونت های هم نام"
   - version: "0.14.0"
     releaseDate: "2026-07-12"
     changes:
