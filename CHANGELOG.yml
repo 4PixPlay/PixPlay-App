@@ -2,7 +2,7 @@ versions:
   - version: "0.14.3"
     releaseDate: "2026-09-05"
     changes:
-      - "پشتیبانی از فونت یکان بخ"
+      - "پشتیبانی از فونت جدید: یکان بخ"
   - version: "0.14.2"
     releaseDate: "2026-07-24"
     changes:
