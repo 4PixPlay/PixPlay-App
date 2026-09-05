@@ -1,4 +1,8 @@
 versions:
+  - version: "0.14.4"
+    releaseDate: "2026-09-05"
+    changes:
+      - "بازگردانی فایل های اصلی بازی با غیرفعال کردن زیرنویس یا فونت"
   - version: "0.14.3"
     releaseDate: "2026-09-05"
     changes:
