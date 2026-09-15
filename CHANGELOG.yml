@@ -1,4 +1,8 @@
 versions:
+  - version: '0.14.8'
+    releaseDate: '2026-09-15'
+    changes:
+      - 'رفع مشکل عدم کپی و انتقال فایل های زیرنویس در عملیات کپی و جایگزینی هنگام نصب'
   - version: '0.14.7'
     releaseDate: '2026-09-15'
     changes:
